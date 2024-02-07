@@ -11,7 +11,7 @@
 
 ## Установка
 ```console
-git clone https://github.com/vova-admitriev/filters-fn.git
+git clone https://github.com/vova-dmitriev/filters-fn.git
 ```
 ```console
 cd filters-fn
