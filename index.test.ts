@@ -1,4 +1,4 @@
-import { filterMessages } from "./index";
+import { filterMessages } from "./filterMessages";
 import type { Message } from "./types";
 
 const boolTrue = {
